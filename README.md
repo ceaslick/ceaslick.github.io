@@ -1,2 +1,2 @@
-# ceaslick.github.io
-This is the portfolio site of Camilla Easlick. 
+# EECS 440 Projects
+Put the video here somewhere
