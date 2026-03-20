@@ -12,3 +12,10 @@ permalink: /
   <source src="/assets/p1-gold.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
+## Project 2 Demo 
+<video width="640" height="360" controls>
+  <source src="/assets/p2-gold.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
