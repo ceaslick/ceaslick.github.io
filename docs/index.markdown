@@ -9,10 +9,11 @@ permalink: /
 
 ## Project 1 Demo 
 <video width="640" height="360" controls>
-  <source src="/assets/p1-gold.mp4" type="video/mp4">
+  <source src="/assets/p1-gold-cropped.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
+<br>
 
 ## Project 2 Demo 
 <video width="640" height="360" controls>
@@ -20,6 +21,7 @@ permalink: /
   Your browser does not support the video tag.
 </video>
 
+<br>
 
 ## Project 3: Michigan AR Classroom Companion (MARCC) Trailer 
 <video width="640" height="360" controls>
