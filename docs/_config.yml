@@ -21,7 +21,7 @@
 title: Camilla Easlick's Portfolio
 email: ceaslick@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Four months. Three projects. Two game engines. Check out some applications I helped develop throughout the span of my XR game development course. 
+  Four months. Three projects. Two game engines. Explore some applications I helped develop throughout the span of my XR game development course. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ceaslick.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: # jekyllrb
