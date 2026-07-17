@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Camilla Easlick's Portfolio (TEST)
+title: Camilla Easlick's Portfolio
 email: ceaslick@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Four months. Three projects. Two game engines. Explore some applications I helped develop throughout the span of my XR game development course. 
