@@ -23,7 +23,7 @@ permalink: /
 
 <br>
 
-## Project 3: Michigan AR Classroom Companion (MARCC) Trailer 
+## Project 3: Michigan AR Classroom Companion (MARCC) 
 <video width="640" height="360" controls>
   <source src="/assets/eecs440trailer1.mp4" type="video/mp4">
   Your browser does not support the video tag.
