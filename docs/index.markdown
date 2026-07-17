@@ -7,7 +7,7 @@ title: "EECS 440: Project Demos"
 permalink: /
 ---
 
-## Project 1 Demo 
+## Project 1: VR Interactive Classroom
 <video width="640" height="360" controls>
   <source src="/assets/p1-gold-cropped.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -15,7 +15,7 @@ permalink: /
 
 <br>
 
-## Project 2 Demo 
+## Project 2: A2Go (Location-based augmented reality game) 
 <video width="640" height="360" controls>
   <source src="/assets/p2-gold.mp4" type="video/mp4">
   Your browser does not support the video tag.
